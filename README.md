@@ -29,7 +29,7 @@ user@tested.com
 ================================================
 Admin ACCESS
 =================================================
-http://localhost/SNG_OGUNLANA_MICHAEL/index/
+http://localhost/SNG_OGUNLANA_MICHAEL/index/admin
 ================================================
 for the purpose of testing , the admin password is 
 12345
