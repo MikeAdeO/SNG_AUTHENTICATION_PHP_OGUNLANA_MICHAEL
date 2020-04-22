@@ -17,24 +17,40 @@ http://localhost/SNG_OGUNLANA_MICHAEL/index/
 user Acces
 ================================================
 =========================================
-for the purpose of testing , the user password is 
+for the purpose of testing , the Patient password is 
 12345
  the user email is 
-user@tested.com
+patient@trial.com
+
+the user can book appointment to any department
+the user can view his profile
+=======================================================
+========================================================
+for the purpose of testing , the Doctor  password is 
+12345
+doctor@trial.com
+=====================================================
+the doctor can only view appointment in his department , 
+the doctor can reset his password,
+
 
 ================================================
 ================================================
 ================================================
 
 ================================================
-Admin ACCESS
+The Super Admin ACCESS
 =================================================
 http://localhost/SNG_OGUNLANA_MICHAEL/index/admin
 ================================================
-for the purpose of testing , the admin password is 
+for the purpose of testing , the Super admin password is 
 12345
  the admin email is 
-admin@tested.com
+super@trial.com
+
+the super admin can add, delete or edit  both Doctors and patients account
+the super admin can view the whole doctors(Staff)
+the super admin can view the details of the whole Patient(Client)
 ================================================
 ================================================
 ================================================
